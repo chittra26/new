@@ -1,0 +1,246 @@
+.megaevent{
+    color:#FC641B;
+    font-size: 200%;
+    margin-left: 100px;
+    position: absolute;
+    margin-top: -200px;
+
+  }
+  table, td{
+    border:1px solid grey;
+    border-bottom: none;
+    border-collapse: collapse;
+     margin-top: -150px;
+     margin-left: 100px;
+    font-size: 70%;
+    padding: 8px;
+    color: #1DCB8B; 
+ 
+
+  }
+  .timeimg{
+  width: 150px;
+  height: 70px;
+    margin-top: 120px;
+  margin-left: -250px;
+    position: absolute;
+  
+  }
+
+
+  .CameraLighting{
+    padding: 2px;
+    border: 1px solid black;
+    display: grid;
+    align-content:space-around ;
+    margin-left: 7px;
+    width: 103px;
+
+}
+.CameraLighting a{
+ 
+    text-decoration: none;
+ font-weight: bolder;
+    font-size: 120%;
+    margin-left: 15px;
+    color: black;
+}
+.CameraLighting:hover{
+    background-color: #FC641B;
+}
+.CameraLighting a:hover{
+    color: white;
+}
+
+.WardrobeServicesSupport{
+    padding: 2px;
+    border: 1px solid black;
+    display: grid;
+    align-content:space-around ;
+    margin-left: 9px;
+    width: 103px;
+   
+ 
+
+}
+.WardrobeServicesSupport a{
+    color: black;
+    font-weight: bolder;
+    text-decoration: none;
+    font-size: 120%;
+    margin-left: 15px;
+   
+}
+.WardrobeServicesSupport:hover{
+    background-color: #FC641B;
+}
+.WardrobeServicesSupport a:hover{
+    color: white;
+}
+.TransportServicesSupport{
+    padding: 2px;
+    border: 1px solid black;
+    display: grid;
+    align-content:space-around ; 
+    margin-left:245px;
+    width: 103px;
+ 
+
+}
+.TransportServicesSupport a{
+    color: black;
+    text-decoration: none;
+    font-weight: bolder;
+    font-size: 120%;
+    margin-left: 13.5px;
+}
+.TransportServicesSupport:hover{
+    background-color: #FC641B;
+}
+.TransportServicesSupport a:hover{
+    color: white;
+}
+.TechnologyStreamingServices{
+    padding: 2px;
+    border: 1px solid black;
+    display: grid;
+    align-content:space-around ; 
+    margin-left: 40px;
+    width: 103px;
+    background-color: #FC641B;
+}
+.TechnologyStreamingServices a{
+    color: white;
+    text-decoration: none;
+    font-weight: bolder;
+    font-size: 120%;
+  
+}
+.TechnologyStreamingServices:hover{
+    background-color: #FC641B;
+}
+.TechnologyStreamingServices a:hover{
+    color: white;
+}
+.CameraVisualStreaming{
+    padding: 2px;
+    border: 1px solid black;
+    display: grid;
+    align-content:space-around ; 
+    margin-left: 205px;
+    width: 103px;
+}
+.CameraVisualStreaming a{
+    color: black;
+    text-decoration: none;
+ font-weight: bolder;
+ font-size: 120%;
+
+margin-left: 15px;
+}
+.CameraVisualStreaming:hover{
+    background-color: #FC641B;
+}
+.CameraVisualStreaming a:hover{
+    color: white;
+}
+.Register{
+    background-color: #FC641B;
+    padding: 9px 5px;
+    color: white;
+    text-decoration: none;
+    font-size: 120%;
+  
+
+}
+.bookyourmeeting{
+    border: 1px solid #FC641B;
+    color: #FC641B;
+    text-decoration: none;
+    font-size: 120%;
+    padding: 8px;
+
+}
+
+.footer div{
+  padding: 25px;
+}
+.footer div li{
+  list-style-type: none;
+  color:rgb(0, 179, 255);
+}
+.footer div li a{
+  color: white;
+  text-decoration: none;
+  list-style-type: none;
+  line-height:2.5;
+}
+.footer div form label{
+  color: white;
+}
+.footer div form input{
+  padding: 15px;
+  border: 1px solid rgb(0, 179, 255); 
+}
+.footer div form button{
+  padding: 12px;
+  background-color:rgb(0, 179, 255); 
+  border-radius: 10%;
+  padding-left: 30px;
+  padding-right: 30px;
+  font-size: 140%;
+  color: white;
+  margin-left: 60px;
+}
+.footer div img{
+  padding: 15px;
+}
+.footer div{
+  padding: 25px;
+}
+.footer div li{
+  list-style-type: none;
+  color:rgb(0, 179, 255);
+}
+.footer div li a{
+  color: white;
+  text-decoration: none;
+  list-style-type: none;
+  line-height:2.5;
+  margin-left: 50px;
+}
+.footer div form label{
+  color: white;
+  font-size: 130%;
+}
+.footer div form input{
+  padding: 15px;
+  background-color: #151A2C;
+  border: 1px solid gray; 
+  color: white;
+  width:300px;
+  margin-left: -20px;
+}
+.footer div form button{
+  padding: 12px;
+  background-color:#151A2C; 
+ 
+  border: none;
+  border: 2px solid grey;
+  padding-left: 30px;
+  padding-right: 30px;
+  font-size: 140%;
+  color: white;
+  margin-left: 60px;
+}
+.footer div img{
+  padding: 15px;
+}
+.address{
+
+  border-bottom: 3px solid rgb(0, 179, 255);;
+}
+
+
+
+ 
